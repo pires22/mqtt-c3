@@ -1,3 +1,3 @@
 ```console
-c3c compile-run main.c3 ../../mqtt.c3 ../../packets.c3 ../../encoder.c3 ../../decoder.c3
+c3c compile-run main.c3 ../../src/mqtt.c3 ../../src/packets.c3 ../../src/encoder.c3 ../../src/decoder.c3
 ```
